@@ -70,14 +70,12 @@ intentionally want to replace an earlier installation.
 
 ### Option B — install from GitHub
 
-Publish this folder in a GitHub repository and ask Codex to install the skill from that repository using its skill installer. For example:
+Ask Codex to install the skill directly from this public repository:
 
 ```text
-Install the Codex skill from:
-https://github.com/CLUB-OR-OWNER/kncb-player-eligibility
+Install $kncb-player-eligibility from:
+https://github.com/sauing/kncb-player-eligibility
 ```
-
-For club-only distribution, use a private repository and give members repository access. Authentication requirements depend on their GitHub setup.
 
 ## How to use it
 
