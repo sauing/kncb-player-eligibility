@@ -1,0 +1,6 @@
+interface:
+  display_name: "KNCB Player Eligibility"
+  short_description: "Check KNCB eligibility and dispensations"
+  default_prompt: "Use $kncb-player-eligibility to determine whether this player may play for Eindhoven without dispensation."
+
+
